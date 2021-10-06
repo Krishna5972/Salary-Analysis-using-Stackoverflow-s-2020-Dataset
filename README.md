@@ -31,7 +31,7 @@ import seaborn as sns
 ## Business Questions
 
 ### Question 1: *What is the average salary in different Regions for IT professionals?*
-### Question 2: *Will a Professional degree or Master’s degree help me to get a good salary?*
+### Question 2: *Would a Master’s degree or Professional degree help you to obtain a good salary?*
 ### Question 3: *How is the average salary varied between Small sized organizations and Established Big Companies in different regions?*
 
 ## Results
