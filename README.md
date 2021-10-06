@@ -35,7 +35,7 @@ import seaborn as sns
 ### Question 3: *How is the average salary varied between Small sized organizations and Established Big Companies in different regions?*
 
 ## Results
-The main findings of the code can be found at the post available here
+The main findings of the code can be found at the post available [here](https://medium.com/@vmskrsh/salary-analysis-using-stackoverflows-2020-dataset-caaf04d26f)
 
 ## Acknowledgements
 Licensing for the Stack Overflow data and other descriptive information at the Kaggle link available [here](https://www.kaggle.com/aitzaz/stack-overflow-developer-survey-2020).
