@@ -1,7 +1,7 @@
 # Salary-Analysis-using-Stackoverflow-s-2020-Dataset
 Analyzing Stackoverflow’s 2020 Dataset to answer a few questions regarding Salary
 
-In this project we use data from Stackoverflow’s 2020 Annual Developer Survey, to answer few questions about salary in different reigions.
+In this project we use data from Stackoverflow’s 2020 Annual Developer Survey, to answer few questions about salary in different regions.
 1. *What is the average salary in different Regions for IT professionals?*
 2. *Will a Professional degree or Master’s degree help me to get a good salary?*
 3. *How is the average salary varied between Small sized organizations and Established Big Companies in different regions?*
